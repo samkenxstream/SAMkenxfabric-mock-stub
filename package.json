@@ -40,7 +40,7 @@
     "nyc": "^12.0.2",
     "rimraf": "^2.6.2",
     "tslint": "5.9.1",
-    "typedoc": "^0.16.2"
+    "typedoc": "^0.24.4"
   },
   "dependencies": {
     "@theledger/couchdb-query-engine": "^2.4.4",
